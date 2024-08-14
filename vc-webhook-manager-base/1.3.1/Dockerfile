@@ -1,0 +1,1 @@
+FROM docker.io/volcanosh/vc-webhook-manager-base:1.3.1
